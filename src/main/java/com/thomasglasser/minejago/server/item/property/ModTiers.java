@@ -1,4 +1,4 @@
-package com.thomasglasser.minejago.server.item.properties;
+package com.thomasglasser.minejago.server.item.property;
 
 import com.thomasglasser.minejago.MinejagoMod;
 import net.minecraft.resources.ResourceLocation;
